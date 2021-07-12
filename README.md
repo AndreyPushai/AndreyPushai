@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndreyPushai
-- 👀 I’m interested in automation testing, development on Python.
+- 👀 I’m interested in automation testing, development with Python.
 - 🌱 I’m currently learning Python Core.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
