@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndreyPushai
 - 👀 I’m interested in automation testing, development with Python.
-- 🌱 I’m currently learning Python Core.
+- 🌱 I’m currently learning Python Core. Taking courses of Java QA Automation.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
