@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @AndreyPushai
-- 👀 I’m interested in automation testing, development with Python.
-- 🌱 I’m currently learning Python Core. Taking courses of Java QA Automation.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in automation testing, development with Python, Java, C, C++.
+- 🌱 I’m currently learning Python Core.
+- 📫 How to reach me andrey.pushai@gmail.com
 
 <!---
 AndreyPushai/AndreyPushai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
